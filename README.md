@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+What up hoomans!
+
+I am James, i take photographs as my hobby.
